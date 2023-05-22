@@ -1,0 +1,22 @@
+회사이름 char[20] company_name
+사업자번호 int company_num
+이름 char[20] user_name
+주민번호 int user_num
+
+id char[20] id
+비밀번호 char[20] password
+
+업무 char [20] task
+인원 수 int recruit_num
+신청 마감일 char[20] deadline
+
+지원자 수 int static_company
+지원 횟수 int static_normal
+
+
+
+
+
+
+
+
