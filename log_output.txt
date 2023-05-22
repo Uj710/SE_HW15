@@ -1,0 +1,31 @@
+[Yujae Shin] Fri May 12 01:52:47 2023 +0900 final commit hw2 23c0b6e
+[pocj8ur4in] Thu May 11 22:45:02 2023 +0900 commit_second_meeeting_revise 263464c
+[kim juyeon] Thu May 11 22:09:48 2023 +0900 commit second meeting 3ffe11c
+[jinhoahfei] Thu May 11 15:08:50 2023 +0900 communication_김진호 dba7fe9
+[pocj8ur4in] Thu May 11 00:52:29 2023 +0900 Create .gitignore 698fb15
+[pocj8ur4in] Thu May 11 00:52:07 2023 +0900 add communication.mdj 1307a2c
+[kimjuyeon] Wed May 10 20:35:45 2023 +0900 diagram 629ffc8
+[kim juyeon] Wed May 10 20:16:02 2023 +0900 Delete communication_김주연.mdj 1728f82
+[kimjuyeon] Wed May 10 19:47:06 2023 +0900 Merge branch 'master' of https://github.com/Uj710/SE_HW15 d861c8f
+[kimjuyeon] Wed May 10 19:42:31 2023 +0900 diagram 225b49d
+[jinhoahfei] Wed May 10 14:41:37 2023 +0900 Merge branch 'master' of https://github.com/Uj710/SE_HW15 53c14dd
+[Yujae Shin] Wed May 10 11:59:42 2023 +0900 communicationDiagram_yujae be0ade0
+[Yujae Shin] Mon May 8 18:14:04 2023 +0900 first meeting 8c706bc
+[Uj710] Mon May 8 17:16:04 2023 +0900 Add files via upload 1dc6542
+[jinho kim] Mon May 8 17:10:27 2023 +0900 Add files via upload fff7c42
+[pocj8ur4in] Mon May 8 17:02:08 2023 +0900 Delete .DS_Store b8231ed
+[pocj8ur4in] Mon May 8 16:22:17 2023 +0900 Add files via upload 635b418
+[jinhoahfei] Mon May 8 15:02:34 2023 +0900 prework_jinhokim f34b32b
+[kim juyeon] Mon May 8 13:57:21 2023 +0900 Add files via upload 4996bd6
+[Uj710] Sun May 7 21:40:36 2023 +0900 Add files via upload 348f511
+[Uj710] Sun May 7 20:27:00 2023 +0900 Update README.md 41b8aed
+[Yujae Shin] Sun May 7 20:18:07 2023 +0900 first commit a7c5f53
+[Yujae Shin] Sun May 7 20:12:51 2023 +0900 first commit_! 53b802b
+[Yujae Shin] Sun May 7 20:09:44 2023 +0900 Merge branch 'master' of https://github.com/Uj710/SE_15_HW 08a3b6e
+[Yujae Shin] Sun May 7 20:09:00 2023 +0900 first commit_ 0922730
+[Yujae Shin] Sun May 7 20:00:41 2023 +0900 first commit 2389c3d
+[Uj710] Sun May 7 19:58:47 2023 +0900 Delete pre_work c52d755
+[Uj710] Sun May 7 19:57:56 2023 +0900 Create pre_work 8c9983a
+[Uj710] Sun May 7 19:56:17 2023 +0900 Create README.md a34df14
+[Yujae Shin] Sun May 7 19:45:53 2023 +0900 first commit f0c1316
+[Yujae Shin] Sun May 7 19:34:57 2023 +0900 first commit d8a9c82
