@@ -126,5 +126,5 @@ void doTask() {
 	반환값 : 없음
 */
 void program_exit() {
-    cout << "6.1.종료";
+    cout << "6.1. 종료";
 }
